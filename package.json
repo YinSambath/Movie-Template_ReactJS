@@ -1,5 +1,4 @@
 {
-  "homepage": "https://YinSambath.github.io/Movie-Template",
   "name": "movie-template",
   "version": "0.1.0",
   "private": true,
@@ -22,9 +21,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "build-prod": "parcel build src/index.js --dist-dir build"
-
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
