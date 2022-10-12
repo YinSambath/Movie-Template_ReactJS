@@ -116,7 +116,6 @@ export const latest = [
     time: "2hr : 38mins",
   },
 ]
-
 export const trending = [
   {
     id: 1,

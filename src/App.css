@@ -1,4 +1,16 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap");
+@font-face {
+  font-family: "Moulpali";
+  src: local("Moulpali"),
+   url("./fonts/Moulpali/Moulpali.ttf") format("truetype");
+  font-weight: bold;
+  }
+@font-face {
+  font-family: "Fasthand-Regular";
+  src: local("Fasthand"),
+   url("./fonts/Fasthand/Fasthand-Regular.ttf") format("truetype");
+  font-weight: bold;
+  }
 * {
   padding: 0;
   margin: 0;
